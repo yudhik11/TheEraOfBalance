@@ -19,7 +19,7 @@
 
 To start the game   
 
-> firefox index.html
+> <browser> index.html
 
 ### Controls : 
 
@@ -32,6 +32,21 @@ Keyboard :
 **Spacebar** : Drop  
 
 **Mouse** : Movement  
+
+### Screenshots
+![1](assets/imgs/sc_1.png)
+
+![2](assets/imgs/sc_2.png)
+
+![3](assets/imgs/sc_3.png)
+
+![4](assets/imgs/sc_4.png)
+
+![5](assets/imgs/sc_5.png)
+
+![6](assets/imgs/sc_6.png)
+
+![7](assets/imgs/sc_7.png)
 
 ### Authors
 
